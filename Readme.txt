@@ -1,3 +1,6 @@
+Hosted link :- https://6460e88c14d64e0edbb97d26--dancing-pika-9c95a1.netlify.app/
+
+
 This code is a React component that creates a word frequency counter. It imports the `useState` hook from the React library and several components from the `recharts` library, including `BarChart`, `Bar`, `XAxis`, `YAxis`, `CartesianGrid`, `Tooltip`, and `Legend`. 
 
 The component has two states: `words` and `histogramData`. The `words` state is an array that holds the top 20 most frequent words and their counts, and `histogramData` state holds the same information as `words`, but in a format that can be used to render a bar chart.
